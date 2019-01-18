@@ -27,7 +27,7 @@ public class missing_number{
             
             if( arr[mid] > (mid+1) )
             {
-                end = mid-1;
+                end = mid;
             }
             else if(arr[mid] <= (mid+1))
             {
