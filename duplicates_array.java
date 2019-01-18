@@ -1,4 +1,12 @@
 import java.util.*;
+
+/*
+
+	we have better solution with respect to memory by negating the element at index of arr[i]
+	1 2 6 1 6 2
+
+*/
+
 public class duplicates_array{	
 	public static void main(String []args){
 		Scanner s = new Scanner(System.in);
