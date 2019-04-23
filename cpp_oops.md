@@ -1,12 +1,12 @@
 ## Object Oriented Programming
-### Encapsulation
+### Encapsulation*
 > Combining/Wrapping of data and methods. Data is available to methods of class for modification. 
-### Polymorphism
+### Polymorphism <span style="color:Red">I</span>
 ### Overloading & Overriding
-### Inheritance
+### Inheritance*
 ### Dynamic Binding
 ### Message Passing
-### Abstract Classes
+### Abstract Classes*
 ### Interfaces
 ### Casting
 ### Downcasting
