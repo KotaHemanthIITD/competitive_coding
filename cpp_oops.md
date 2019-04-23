@@ -1,7 +1,8 @@
 ## Object Oriented Programming
 ### Encapsulation*
-> Combining/Wrapping of data and methods. Data is available to methods of class for modification. 
-### Polymorphism <span style="color:Red">I</span>
+<li> Combining/Wrapping of data and methods. Data is available to methods of class for modification. </li>
+<li> private keyword is used for data hiding </li>
+### Polymorphism*
 ### Overloading & Overriding
 ### Inheritance*
 ### Dynamic Binding
