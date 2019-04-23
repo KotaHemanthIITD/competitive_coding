@@ -2,7 +2,7 @@
 ### Encapsulation*
 <ol>
 <li> Combining/Wrapping of data and methods. Data is available to methods of class for modification. </li>
-<li> **private** keyword is used for data hiding. These variables cannot be modified from other classes. **setter** and **getter** public methods do the job of modification and read. </li>
+<li> ** private ** keyword is used for data hiding. These variables cannot be modified from other classes. **setter** and **getter** public methods do the job of modification and read. </li>
 <li> Principle benefit of Encapsulation is control over data is high. Implementation details are invisible/hidden to user.</li>
 <ul>
 <li>private : Higher Restriction. </li>
